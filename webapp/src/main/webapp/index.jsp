@@ -9,7 +9,7 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;"> Hello, Welcome to the DevOps  </h1>
-<h1 style="color:blue;"> We have fetch code automatically from github to jenkins and create docker image and container also </h1>
+<h1 style="color:blue;"> We have fetch code automatically from github to jenkins and create docker image and container also from dockerhub </h1>
 </body>
 </html>
 
